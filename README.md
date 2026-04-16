@@ -152,7 +152,7 @@ Crime-Prediction-AI/
 │   └── Combined CSV dataset or source files
 │
 ├── notebooks/
-│   └── Crime_Prediction_Final_Notebook.ipynb
+│   └── Crime Prediction.ipynb
 │
 ├── images/
 │   └── charts, screenshots, diagrams
